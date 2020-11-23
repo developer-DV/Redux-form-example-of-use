@@ -1,5 +1,6 @@
-const { createStore, combineReducers } = require("redux");
 import { reducer as formReducer } from 'redux-form'
+const { createStore, combineReducers } = require("redux")
+
 
 const rootReducer = combineReducers({
     form: formReducer

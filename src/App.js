@@ -5,6 +5,7 @@ import ContactForm from './components/FormComponent';
 
 class App extends React.Component {
   submit = (values) => {
+    alert(`Вы зарегистрированы!`)
     console.log(values)
   }
 
