@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/developer-DV/Redux-form-example-of-use/static/css/main.106c4cd5.chunk.css",
+    "main.js": "/developer-DV/Redux-form-example-of-use/static/js/main.5499128e.chunk.js",
+    "main.js.map": "/developer-DV/Redux-form-example-of-use/static/js/main.5499128e.chunk.js.map",
+    "runtime-main.js": "/developer-DV/Redux-form-example-of-use/static/js/runtime-main.38e2a87c.js",
+    "runtime-main.js.map": "/developer-DV/Redux-form-example-of-use/static/js/runtime-main.38e2a87c.js.map",
+    "static/js/2.dd3139f0.chunk.js": "/developer-DV/Redux-form-example-of-use/static/js/2.dd3139f0.chunk.js",
+    "static/js/2.dd3139f0.chunk.js.map": "/developer-DV/Redux-form-example-of-use/static/js/2.dd3139f0.chunk.js.map",
+    "static/js/3.db9fcc80.chunk.js": "/developer-DV/Redux-form-example-of-use/static/js/3.db9fcc80.chunk.js",
+    "static/js/3.db9fcc80.chunk.js.map": "/developer-DV/Redux-form-example-of-use/static/js/3.db9fcc80.chunk.js.map",
+    "index.html": "/developer-DV/Redux-form-example-of-use/index.html",
+    "static/css/main.106c4cd5.chunk.css.map": "/developer-DV/Redux-form-example-of-use/static/css/main.106c4cd5.chunk.css.map",
+    "static/js/2.dd3139f0.chunk.js.LICENSE.txt": "/developer-DV/Redux-form-example-of-use/static/js/2.dd3139f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38e2a87c.js",
+    "static/js/2.dd3139f0.chunk.js",
+    "static/css/main.106c4cd5.chunk.css",
+    "static/js/main.5499128e.chunk.js"
+  ]
+}
